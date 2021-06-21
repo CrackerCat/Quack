@@ -1,2 +1,3 @@
 # Quack
-Quack is a powerful and simple SMS flooder with big functional.
+
+Quack is a powerful and fast tool with big functional for performing SMS flooding attacks.
