@@ -28,7 +28,7 @@ from setuptools import setup, find_packages
 
 setup(name='quack',
       version='1.0',
-      description='',
+      description='Quack is a powerful and fast tool with big functional for performing SMS flooding attacks.',
       url='http://github.com/EntySec/Quack',
       author='EntySec',
       author_email='entysec@gmail.com',
@@ -44,9 +44,6 @@ setup(name='quack',
           "Programming Language :: Python",
           "Programming Language :: Python :: 3",
           "Programming Language :: Python :: 3.8",
-      ],
-      install_requires=[
-          'shodan',
       ],
       zip_safe=False
 )
